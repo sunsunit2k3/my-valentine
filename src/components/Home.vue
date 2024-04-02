@@ -44,13 +44,15 @@ img {
 </style>
 
 <script>
+import image2 from"@assets/bear_2.gif";
+import image1 from "@assets/bear_1.gif";
 export default {
   data() {
     return {
       question: "Will you be my Valentine?",
       newQuestion: "I Love You",
-      newImageSrc:"../../src/assets/bear_2.gif",
-      imageSrc: "../../src/assets/bear_1.gif",
+      newImageSrc:image2,
+      imageSrc: image1,
       noButtonText: "No",
       listNoButtonText: ["No", "Are You Sure?", "Really sure?", "Are you positive???", 
       "Pookie please", 'Just think about it', "If you say no, I'll be very sad", 
