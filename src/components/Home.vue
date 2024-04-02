@@ -49,8 +49,8 @@ export default {
     return {
       question: "Will you be my Valentine?",
       newQuestion: "I Love You",
-      newImageSrc:"https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif",
-      imageSrc: "https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif",
+      newImageSrc:"../../src/assets/bear_2.gif",
+      imageSrc: "../../src/assets/bear_1.gif",
       noButtonText: "No",
       listNoButtonText: ["No", "Are You Sure?", "Really sure?", "Are you positive???", 
       "Pookie please", 'Just think about it', "If you say no, I'll be very sad", 
