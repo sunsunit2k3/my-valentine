@@ -48,7 +48,6 @@ export default {
       this.noButtonIndex = (this.noButtonIndex + 1) % this.listNoButtonText.length;
       this.noButtonText = this.listNoButtonText[this.noButtonIndex];
       this.yesFontSize =  this.x + "px";;
-      console.log(this.x)
     }
   }
 }
