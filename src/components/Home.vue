@@ -24,8 +24,8 @@ import image1 from "@assets/bear_1.gif";
 export default {
   data() {
     return {
-      question: "Will you be my Valentine?",
-      newQuestion: "I Love You",
+      question: "Will you be my girlfriend?",
+      newQuestion: "I Love You, Maii :))))",
       newImageSrc: image2,
       imageSrc: image1,
       noButtonText: "No",
